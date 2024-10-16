@@ -1,5 +1,5 @@
 ## Chama? no Chama?
-![Alex-Poatan-Pereira's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex-Poatan-Pereira=anuraghazra&show_icons=true&theme=radical)
+![Alex-Poatan-Pereira's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex-Poatan-Pereira_icons=true&theme=radical)
 <!--
 **Alex-Poatan-Pereira/Alex-Poatan-Pereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
